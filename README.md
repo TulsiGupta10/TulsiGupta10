@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tulsi Gupta</h1>
 <h3 align="center">I am a Second year B.tech(C.S.E) Student with a passion for technology and programming. I have knowledge of programming languages such as - C , Python ,C++ , HTML , CSS ,Data Analytics.</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/cc47c002-a352-4022-b59c-ff132a46d58c)
-">
+<img align="right" alt="coding" width="400" src="C:\Users\tt\Downloads\animatedgithump.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=projectload&label=Profile%20views&color=0e75b6&style=flat" alt="projectload" /> </p>
 
 - 🌱 I’m currently learning **DSA and Problem Solving in C++ programming**
