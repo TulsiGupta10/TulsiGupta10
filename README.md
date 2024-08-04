@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tulsi-gupta-387743257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tulsi-gupta-387743257/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@tulsig055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@tulsig055" height="30" width="40" /></a>
-
 <a href="https://www.leetcode.com/tulsig055@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tulsig055@gmail.com" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/@tulsi5edx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="@tulsi5edx" height="30" width="40" /></a>
 <a href="https://discord.gg/@tulsigupta0793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@tulsigupta0793" height="30" width="40" /></a>
