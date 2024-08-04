@@ -5,11 +5,11 @@
 - 🔭 I’m currently selected for 4-week Internship in C++ by CodSoft   [CODSOFT](https://github.com/projectload/CODSOFT)
 
 - 🌱 I’m currently learning **DSA and Problem Solving in C++ programming**
-<p > <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952armor98exyy4r3i8cvvnuwvrqrc77883ylxxg1ks&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right"
-width="350" /> </p>
 - 📫 How to reach me **tulsig055@gmail.com**
 
 - Know more about me by my Resume [https://drive.google.com/file/d/1_c767yaKKom0trFVv3p1kanfBkFAAjE8/view?usp=drivesdk](https://drive.google.com/file/d/1_c767yaKKom0trFVv3p1kanfBkFAAjE8/view?usp=drivesdk)
+- <p > <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952armor98exyy4r3i8cvvnuwvrqrc77883ylxxg1ks&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right"
+width="350" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tulsi-gupta-387743257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tulsi-gupta-387743257/" height="30" width="40" /></a>
