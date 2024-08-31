@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tulsi Gupta</h1>
-<h3 align="center">I am a Second year B.tech(C.S.E) Student with a passion for technology and programming.</h3>
+<h3 align="center">I am a Third year B.tech(C.S.E) Student with a passion for technology and programming.</h3>
 <h4 align="center">I have knowledge of programming languages such as - C , Python ,C++ , HTML , CSS ,Data Analytics.</h4>
 
 - 🔭 I’m currently selected for 4-week Internship in C++ by CodSoft   [CODSOFT](https://github.com/projectload/CODSOFT)
