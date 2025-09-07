@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Tulsi Gupta</h1>
-<h3 align="center">A Third-Year B.Tech (CSE) Student with a passion for technology and programming.</h3>
-<h4 align="center">I have knowledge of programming languages such as C, C++, Python, HTML, CSS, and Data Analytics.</h4>
+<h3 align="center">A Final Year B.Tech (CSE) Student with a passion for technology and programming.</h3>
+<h4 align="center">I have knowledge of programming languages such as C, C++, Python, HTML, CSS, JavaScript, and Basics of Data Analytics.</h4>
 
 ---
 
-- 🔭 I’m currently doing a **4-week Internship in C++ at CodSoft** → [CODSOFT](https://github.com/projectload/CODSOFT)  
+- 🔭 I’m currently doing a **4-week Internship in Frontend Development at Edunet Foundation (IBM SkillsBuild Program)**  
 - 🌱 I’m currently learning **Data Structures & Algorithms (DSA)** and **Problem Solving in C++**  
 - 📫 Reach me at: **tulsig055@gmail.com**  
 - 📄 Know more about me: [My Resume](https://drive.google.com/file/d/1_c767yaKKom0trFVv3p1kanfBkFAAjE8/view?usp=drivesdk)  
+
+<br/>
 
 <p>
   <img src="https://media2.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=6c09b952armor98exyy4r3i8cvvnuwvrqrc77883ylxxg1ks&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" align="right" width="350" />
@@ -55,6 +57,8 @@
   </a>
 </p>
 
+<br/>
+
 <p>
   <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif" align="right" width="350" />
 </p>
@@ -62,6 +66,7 @@
 ---
 
 <h3 align="center">📊 GitHub Stats:</h3>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TulsiGupta10&show_icons=true&locale=en" alt="Tulsi Gupta GitHub Stats" />
 </p>
